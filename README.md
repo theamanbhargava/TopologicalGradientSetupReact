@@ -1,4 +1,8 @@
 # Gradient Topography Animation
+This is a React port of the work by Codrops to use Anime.js, Charming(Lettering.js for VanillaJS).
+
+## TODO:
+The Links don't work yet, need to move the open/close methods inside React.
 
 ## Credits
 
