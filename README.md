@@ -1,3 +1,11 @@
+# Gradient Topography Animation
+
+## Credits
+
+- [anime.js](http://animejs.com/) by Julian Garnier
+- [Charming](https://github.com/yuanqing/charming) by Yuan Qing
+- [Original Code](https://github.com/codrops/GradientTopographyAnimation/) by Codrops
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
